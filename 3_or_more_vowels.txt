@@ -1,0 +1,14 @@
+mkdir
+echo
+cat
+man
+head
+tail
+less
+more
+sort
+grep
+which
+chmod
+history
+clear
