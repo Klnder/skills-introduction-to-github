@@ -1,10 +1,10 @@
 pwd
-cd 
-ls 
-mkdir, rmdir 
-echo 
-cat, zcat, tac 
-cp 
-mv 
-rm 
-shred
+ls
+cd
+mkdir
+echo
+cat
+cp
+mv
+rm
+man
