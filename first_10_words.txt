@@ -1,0 +1,10 @@
+pwd
+cd 
+ls 
+mkdir, rmdir 
+echo 
+cat, zcat, tac 
+cp 
+mv 
+rm 
+shred
